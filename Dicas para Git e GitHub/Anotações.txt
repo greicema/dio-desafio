@@ -1,0 +1,8 @@
+Link para download do Git
+https://git-scm.com/downloads
+
+Terminal no Windows
+https://www.notion.so/greicemara/Terminal-no-Windows-914d6d8fc86e4e5fbd1dd3c51ef55479
+
+Principais comandos no Terminal 
+https://www.notion.so/greicemara/Principais-comandos-no-Terminal-38f94ab7c0b8423e8c255ab75d4eb0c2
